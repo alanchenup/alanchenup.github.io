@@ -17,7 +17,7 @@ author:
     email:                                               # 邮箱地址
     weibo:                                               # 微博地址
     github:                                              # GitHub地址
-    logo: /res/img/me.jpg                                               # logo地址
+    logo: /res/img/me.png                                               # logo地址
     douban:
         name:                                            # 豆瓣地址名称
         key:                                             # 豆瓣API Key
