@@ -46,7 +46,7 @@ $(document).ready(function() {
         scrolling: 'no',
     });
     // Pictures
-    var images = ["/res/img/bg/01.jpg", "/res/img/bg/02.jpg", "/res/img/bg/03.jpg", "/res/img/bg/xingkong.jpg"];
+    var images = ["/res/img/bg/taikong.jpg","/res/img/bg/01.jpg", "/res/img/bg/02.jpg", "/res/img/bg/03.jpg", "/res/img/bg/xingkong.jpg"];
     images.sort(function() {
         return Math.random() > 0.5 ? -1 : 1
     });
